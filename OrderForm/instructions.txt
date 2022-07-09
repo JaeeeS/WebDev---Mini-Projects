@@ -1,0 +1,9 @@
+Here are some keynotes:
+For the Customer, lahat ng mayroong "Required Input" ay REQUIRED.
+Date must be in the standard format here in the Philippines.
+Supposedly, Customer ID and Order Number should be System-Generated. But since this is still a simple activity, this would not be required (since it involves an algorithm). However, you may still do this.
+When inputting in "Products to Order", **Quantity **and Product Code lang imamanipulate ni User.
+Once nakapili siya ng Product Code, dapat automatic na igegenerate yung Unit, Description and Unit Price (based on the product code).
+Its either mano-mano kayong gagawa ng database ng Products or pwede kayo gumawa ng Product Form for adding products. [same with Customer]
+Total Price = UNIT PRICE x QTY
+Total = Sum of all Total Prices
